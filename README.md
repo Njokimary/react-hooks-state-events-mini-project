@@ -10,7 +10,7 @@
 To build on what you've learned over the course of this section, we'll be
 building out a simple task list app to practice working with state and events,
 focusing in particular on working with arrays.
-
+     
 ## Deliverables
 
 There is some starter code built out for all of the components you'll need. The
